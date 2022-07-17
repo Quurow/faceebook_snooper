@@ -1,3 +1,8 @@
+__all__ = [
+    'InfoTypes',
+    'ResultTypes'
+]
+
 
 class InfoTypes:
     WORK = 0
